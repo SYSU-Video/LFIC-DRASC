@@ -1,5 +1,12 @@
 # LFIC-DRASC - Light Field Image Compression Neural Network
 
+![GitHub stars](https://img.shields.io/github/stars/SYSU-Video/LFIC-DRASC?style=social)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
+[![Paper](https://img.shields.io/badge/Paper-arxiv'24-b31b1b.svg)](https://arxiv.org/abs/2409.11711)
+![License](https://img.shields.io/github/license/SYSU-Video/LFIC-DRASC)
+![Last commit](https://img.shields.io/github/last-commit/SYSU-Video/LFIC-DRASC)
+
 ## Project Introduction
 
  LFIC-DRASC is a deep learning model for light field image compression, which maintains spatial consistency through a special network structure, improving compression efficiency and visual quality.
