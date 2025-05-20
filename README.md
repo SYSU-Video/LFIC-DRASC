@@ -1,5 +1,5 @@
 # LFIC-DRASC - Light Field Image Compression Neural Network
-[Shiyu Feng], [Yun Zhang](https://codec.siat.ac.cn/yunzhang/), [Linwei Zhu](https://zhulinweicityu.github.io/), [Sam Kwong](https://scholars.ln.edu.hk/en/persons/sam-tak-wu-kwong)
+[Shiyu Feng], [Yun Zhang](https://codec.siat.ac.cn/yunzhang/), [Linwei Zhu](https://zhulinweicityu.github.io/), [Sam Kwong](https://scholars.ln.edu.hk/en/persons/sam-tak-wu-kwong) \
 ![GitHub stars](https://img.shields.io/github/stars/SYSU-Video/LFIC-DRASC?style=social)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
