@@ -56,6 +56,7 @@ python updata.py checkpoint_path -n checkpoint_name
 python Inference.py --dataset test_directory --output_path output_directory -p checkpoint.pth.tar
 ```
 
+Note: We have retrained the models on RTX4090 and updated their checkpoints, which are provided in the ckpt folder. 
 
 
 
