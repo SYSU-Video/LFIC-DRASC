@@ -1,7 +1,4 @@
 # LFIC-DRASC - Light Field Image Compression Neural Network
-Shiyu Feng, [Yun Zhang](https://codec.siat.ac.cn/yunzhang/), [Linwei Zhu](https://zhulinweicityu.github.io/), [Sam Kwong](https://scholars.ln.edu.hk/en/persons/sam-tak-wu-kwong) 
-
-
 
 ![GitHub stars](https://img.shields.io/github/stars/SYSU-Video/LFIC-DRASC?style=social)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -9,6 +6,11 @@ Shiyu Feng, [Yun Zhang](https://codec.siat.ac.cn/yunzhang/), [Linwei Zhu](https:
 [![Paper](https://img.shields.io/badge/Paper-arxiv'24-b31b1b.svg)](https://arxiv.org/abs/2409.11711)
 ![License](https://img.shields.io/github/license/SYSU-Video/LFIC-DRASC)
 ![Last commit](https://img.shields.io/github/last-commit/SYSU-Video/LFIC-DRASC)
+
+LFIC-DRASC: Deep Light Field Image Compression Using Disentangled Representation and Asymmetrical Strip Convolution \
+[[paper]](https://ieeexplore.ieee.org/document/11068206) [[code]](https://github.com/SYSU-Video/LFIC-DRASC) \
+[Shiyu Feng](https://orcid.org/0009-0002-9085-727X), [Yun Zhang](https://codec.siat.ac.cn/yunzhang/), [Linwei Zhu](https://zhulinweicityu.github.io/), [Sam Kwong](https://scholars.ln.edu.hk/en/persons/sam-tak-wu-kwong) \
+*IEEE Transactions on Broadcasting (TBC), 2025*
 
 ## Project Introduction
 
