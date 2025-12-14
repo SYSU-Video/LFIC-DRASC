@@ -14,7 +14,11 @@ LFIC-DRASC: Deep Light Field Image Compression Using Disentangled Representation
 
 ## Project Introduction
 
- LFIC-DRASC is a deep learning model for light field image compression, which maintains spatial consistency through a special network structure, improving compression efficiency and visual quality.
+LFIC-DRASC is a deep learning model for light field image compression, which maintains spatial consistency through a special network structure, improving compression efficiency and visual quality.
+
+## Abstract
+Light-Field (LF) image is emerging 4D data of light rays that is capable of realistically presenting spatial and angular information of 3D scene. However, the large data volume of LF images becomes the most challenging issue in real-time processing, transmission, and storage. In this paper, we propose an end-to-end deep LF Image Compression method Using Disentangled Representation and Asymmetrical Strip Convolution (LFIC-DRASC) to improve coding efficiency. Firstly, we formulate the LF image compression problem as learning a disentangled LF representation network and an image encodingdecoding network. Secondly, we propose two novel feature extractors that leverage the structural prior of LF data by integrating features across different dimensions. Meanwhile, disentangled LF representation network is proposed to enhance the LF feature disentangling and decoupling. Thirdly, we propose the LFIC-DRASC for LF image compression, where two Asymmetrical Strip Convolution (ASC) operators, i.e., horizontal and vertical, are proposed to capture long-range correlation in LF feature space. These two ASC operators can be combined with the square convolution to further decouple LF features, which enhances the model’s ability in representing intricate spatial relationships. Experimental results demonstrate that the proposed LFIC-DRASC achieves an average of 20.5% bit rate reductions compared with the state-of-the-art methods. Source code and pre-trained models of LFIC-DRASC are available at https://github.com/SYSU-Video/LFIC-DRASC.
+
 
 ## Environment Configuration
 
